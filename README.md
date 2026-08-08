@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+I'm Julien, a 3rd-year engineering student at EPITA and future apprentice at Safran Aircraft Engines.
+
+I use this GitHub to host my school projects, personal experiments, and things I find interesting to build.
+
+Check out my portfolio: [julienbui.dev](https://julienbui.dev/)
+
+Tech Stack
+
+Here are the technologies and tools I work with:
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,nodejs,git,linux,docker,mysql" />
+
 <!--
 **Julien-Bui/Julien-Bui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
