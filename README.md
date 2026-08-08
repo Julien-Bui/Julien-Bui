@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Julien, a 3rd-year engineering student at EPITA and future apprentice at Safran Aircraft Engines.
+I'm Julien, a 1st-year engineering student at EPITA and future apprentice at Safran Aircraft Engines.
 
 I use this GitHub to host my school projects, personal experiments, and things I find interesting to build.
 
