@@ -10,7 +10,7 @@ Tech Stack
 
 Here are the technologies and tools I work with:
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,nodejs,git,linux,docker,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cs,rust,java,javascript,react,git,linux,docker,mysql" />
 
 <!--
 **Julien-Bui/Julien-Bui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
