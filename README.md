@@ -6,7 +6,6 @@ I use this GitHub to host my school projects, personal experiments, and things I
 
 Check out my portfolio: [julienbui.dev](https://julienbui.dev/)
 
-Tech Stack
 
 Here are the technologies and tools I work with:
 
