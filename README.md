@@ -7,7 +7,7 @@ I use this GitHub to host my school projects, personal experiments, and things I
 Check out my portfolio: [julienbui.dev](https://julienbui.dev/)
 
 
-Here are the technologies and tools I work with:
+Here are the languages and tools I work with:
 
 <img src="https://skillicons.dev/icons?i=python,c,cs,rust,java,javascript,react,git,linux,docker,mysql" />
 
