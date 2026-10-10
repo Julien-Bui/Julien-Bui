@@ -4,7 +4,7 @@ I'm Julien, a 3rd-year engineering student at EPITA and apprentice at Safran Air
 
 I use this GitHub to host my school projects, personal experiments, and things I find interesting to build.
 
-Check out my portfolio and personal website: [julienbui.dev](https://julienbui.dev/)
+Check out my portfolio: [julienbui.dev](https://julienbui.dev/)
 
 
 Here are the languages and tools I work with:
